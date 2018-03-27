@@ -1,1 +1,1 @@
-search-bar.vue
+this may be contained in folder with associated styles and scripts, or self-contained into one file
